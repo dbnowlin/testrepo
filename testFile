@@ -1,1 +1,9 @@
-Group 4 rocks !
+<<<<<<< HEAD
+<<<<<<< HEAD
+This is a test file with some stuff in it in the working branch!
+=======
+Group 3 rocks!
+>>>>>>> 94e6435bf26a634fbf9a8394e2f9345f3b7e9e34
+=======
+Group 2 rocks!
+>>>>>>> 5bed82c13a658c7579b9f8de20a895137dfedb6d
